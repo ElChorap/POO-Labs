@@ -1,0 +1,3 @@
+C:\Users\ficti\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.vcxproj.AssemblyReference.cache
+C:\Users\ficti\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ficti\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
