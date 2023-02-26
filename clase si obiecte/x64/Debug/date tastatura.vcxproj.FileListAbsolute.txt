@@ -1,0 +1,6 @@
+C:\Users\ficti\source\repos\date tastatura\x64\Debug\date tastatura.vcxproj.AssemblyReference.cache
+C:\Users\ficti\source\repos\date tastatura\x64\Debug\date tastatura.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ficti\source\repos\date tastatura\x64\Debug\date tastatura.exe
+C:\Users\ficti\source\repos\clase si obiecte\x64\Debug\date tastatura.vcxproj.AssemblyReference.cache
+C:\Users\ficti\source\repos\clase si obiecte\x64\Debug\date tastatura.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ficti\source\repos\clase si obiecte\x64\Debug\date tastatura.exe
