@@ -1,0 +1,3 @@
+C:\Users\ficti\source\repos\numele persoanei +varsta\x64\Debug\numele persoanei +varsta.vcxproj.AssemblyReference.cache
+C:\Users\ficti\source\repos\numele persoanei +varsta\x64\Debug\numele persoanei +varsta.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ficti\source\repos\numele persoanei +varsta\x64\Debug\numele persoanei +varsta.exe
