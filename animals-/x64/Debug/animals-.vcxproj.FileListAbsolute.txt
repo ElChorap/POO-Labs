@@ -1,0 +1,3 @@
+C:\Users\ficti\source\repos\animals-\x64\Debug\animals-.vcxproj.AssemblyReference.cache
+C:\Users\ficti\source\repos\animals-\x64\Debug\animals-.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ficti\source\repos\animals-\x64\Debug\animals-.exe
