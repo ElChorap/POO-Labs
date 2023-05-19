@@ -1,0 +1,24 @@
+﻿  Aeroport.cpp
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(64,18): error C2662: 'bool Avion::fabricatInAnul(int)': cannot convert 'this' pointer from 'const Avion' to 'Avion &'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(64,13): message : Conversion loses qualifiers
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(48,10): message : see declaration of 'Avion::fabricatInAnul'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(64,18): message : while trying to match the argument list '(int)'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(65,18): error C2662: 'void Avion::afisareDetalii(void)': cannot convert 'this' pointer from 'const Avion' to 'Avion &'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(65,13): message : Conversion loses qualifiers
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(36,10): message : see declaration of 'Avion::afisareDetalii'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(65,18): message : while trying to match the argument list '()'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(72,14): error C2039: 'sort': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\string(24,1): message : see declaration of 'std'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(72,18): error C3861: 'sort': identifier not found
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(76,14): error C2039: 'sort': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\string(24,1): message : see declaration of 'std'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(76,18): error C3861: 'sort': identifier not found
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(81,14): error C2662: 'void Avion::afisareDetalii(void)': cannot convert 'this' pointer from 'const Avion' to 'Avion &'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(81,9): message : Conversion loses qualifiers
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(36,10): message : see declaration of 'Avion::afisareDetalii'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(81,14): message : while trying to match the argument list '()'
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(99,5): error C2065: 'avion2': undeclared identifier
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(114,23): error C2065: 'avion2': undeclared identifier
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(119,35): error C2065: 'avioane': undeclared identifier
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(122,37): error C2065: 'avion': undeclared identifier
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\Aeroport.cpp(125,37): error C2065: 'avion': undeclared identifier

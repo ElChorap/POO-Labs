@@ -1,0 +1,2 @@
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\x64\Debug\Aeroport.vcxproj.AssemblyReference.cache
+C:\Users\ficti\Desktop\TEME POO\Aeroport\Aeroport\x64\Debug\Aeroport.vcxproj.SuggestedBindingRedirects.cache
